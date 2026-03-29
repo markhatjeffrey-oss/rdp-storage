@@ -1,0 +1,14 @@
+.facebook-clone {
+    background-color: #3b5998;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.facebook-clone h1 {
+    font-size: 2.5em;
+}
+
+.facebook-clone p {
+    font-size: 1.2em;
+}
